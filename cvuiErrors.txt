@@ -1,0 +1,108 @@
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C2143	syntax error: missing ',' before '&'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1516
+Error	C2612	trailing ')' illegal in base/member initializer list	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1122
+Error	C2143	syntax error: missing ',' before '&'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1525
+Error	C2143	syntax error: missing ',' before '&'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1533
+Error	C2059	syntax error: '::'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1347
+Error	C2059	syntax error: '::'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1355
+Error	C2059	syntax error: ')'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1122
+Warning	C4003	not enough actual parameters for macro 'min'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1123
+Warning	C4003	not enough actual parameters for macro 'max'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1124
+Error	C4430	missing type specifier - int assumed. Note: C++ does not support default-int	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1516
+Error	C4430	missing type specifier - int assumed. Note: C++ does not support default-int	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1525
+Error	C4430	missing type specifier - int assumed. Note: C++ does not support default-int	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1533
+Error	C2228	left of '.x' must have class/struct/union	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1527
+Error	C2228	left of '.x' must have class/struct/union	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1537
+Error	C2228	left of '.width' must have class/struct/union	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1527
+Error	C2228	left of '.width' must have class/struct/union	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1537
+Error	C2228	left of '.step' must have class/struct/union	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1518
+Error	C2228	left of '.step' must have class/struct/union	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1519
+Error	C2228	left of '.step' must have class/struct/union	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1521
+Error	C2228	left of '.options' must have class/struct/union	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1518
+Error	C2228	left of '.mouse' must have class/struct/union	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1542
+Error	C2228	left of '.min' must have class/struct/union	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1519
+Error	C2228	left of '.min' must have class/struct/union	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1521
+Error	C2228	left of '.min' must have class/struct/union	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1529
+Error	C2228	left of '.min' must have class/struct/union	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1535
+Error	C2228	left of '.max' must have class/struct/union	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1529
+Error	C2228	left of '.max' must have class/struct/union	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1535
+Error	C2228	left of '.empty' must have class/struct/union	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1313
+Error	C2228	left of '.empty' must have class/struct/union	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1317
+Error	C1003	error count exceeds 100; stopping compilation	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1614
+Error	C2039	'UP': is not a member of 'cvui::cvui'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1284
+Error	C2065	'theValue': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1519
+Error	C2065	'theValue': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1521
+Error	C2065	'theValue': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1535
+Error	C2065	'thePixelX': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1527
+Error	C2065	'theParams': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1518
+Error	C2065	'theParams': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1519
+Error	C2065	'theParams': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1521
+Error	C2065	'theParams': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1529
+Error	C2065	'theParams': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1535
+Error	C2065	'theBounding': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1527
+Error	C2065	'theBounding': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1537
+Error	C2653	'render': is not a class or namespace name	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1575
+Error	C2653	'render': is not a class or namespace name	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1576
+Error	C2653	'render': is not a class or namespace name	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1613
+Error	C2653	'render': is not a class or namespace name	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1614
+Error	C2039	'OVER': is not a member of 'cvui::cvui'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1554
+Error	C2039	'OVER': is not a member of 'cvui::cvui'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1614
+Error	C2039	'OUT': is not a member of 'cvui::cvui'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1545
+Error	C2039	'OUT': is not a member of 'cvui::cvui'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1613
+Error	C2039	'IS_DOWN': is not a member of 'cvui::cvui'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1288
+Error	C2039	'iarea': is not a member of 'cvui::cvui'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1574
+Error	C2039	'iarea': is not a member of 'cvui::cvui'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1610
+Error	C2065	'gTrackbarMarginX': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1527
+Error	C2065	'gTrackbarMarginX': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1537
+Error	C2065	'gStackCount': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1360
+Error	C2065	'gStackCount': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1364
+Error	C2065	'gStackCount': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1368
+Error	C2065	'gStackCount': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1372
+Error	C2065	'gStackCount': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1377
+Error	C2065	'gStackCount': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1381
+Error	C2065	'gStack': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1368
+Error	C2065	'gStack': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1372
+Error	C2065	'gStack': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1381
+Error	C2065	'gLastKeyPressed': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1305
+Error	C2065	'gLastKeyPressed': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1588
+Error	C2065	'gLastKeyPressed': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1591
+Error	C2039	'gLastKeyPressed': is not a member of 'cvui::cvui::internal'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1305
+Error	C2039	'gLastKeyPressed': is not a member of 'cvui::cvui::internal'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1588
+Error	C2039	'gLastKeyPressed': is not a member of 'cvui::cvui::internal'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1591
+Error	C2065	'gDelayWaitKey': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1304
+Error	C2039	'gDelayWaitKey': is not a member of 'cvui::cvui::internal'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1304
+Error	C2065	'gDefaultContext': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1302
+Error	C2065	'gDefaultContext': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1317
+Error	C2065	'gDefaultContext': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1319
+Error	C2039	'gDefaultContext': is not a member of 'cvui::cvui::internal'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1302
+Error	C2039	'gDefaultContext': is not a member of 'cvui::cvui::internal'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1317
+Error	C2039	'gDefaultContext': is not a member of 'cvui::cvui::internal'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1319
+Error	C2065	'gCurrentContext': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1303
+Error	C2065	'gCurrentContext': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1313
+Error	C2065	'gCurrentContext': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1315
+Error	C2039	'gCurrentContext': is not a member of 'cvui::cvui::internal'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1303
+Error	C2039	'gCurrentContext': is not a member of 'cvui::cvui::internal'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1313
+Error	C2039	'gCurrentContext': is not a member of 'cvui::cvui::internal'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1315
+Error	C2065	'gContexts': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1311
+Error	C2065	'gContexts': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1315
+Error	C2065	'gContexts': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1319
+Error	C2065	'gContexts': undeclared identifier	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1325
+Error	C2039	'gContexts': is not a member of 'cvui::cvui::internal'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1311
+Error	C2039	'gContexts': is not a member of 'cvui::cvui::internal'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1315
+Error	C2039	'gContexts': is not a member of 'cvui::cvui::internal'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1319
+Error	C2039	'gContexts': is not a member of 'cvui::cvui::internal'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1325
+Error	C2039	'error': is not a member of 'cvui::cvui::internal'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1324
+Error	C3861	'error': identifier not found	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1324
+Error	C2039	'DOWN': is not a member of 'cvui::cvui'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1286
+Error	C2039	'DOWN': is not a member of 'cvui::cvui'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1552
+Error	C2661	'cvui::image': no overloaded function takes 3 arguments	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1613
+Error	C2661	'cvui::image': no overloaded function takes 3 arguments	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1614
+Error	C2660	'cvui::cvui::internal::getContext': function does not take 0 arguments	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1542
+Error	C2665	'cvui::cvui::internal::button': none of the 7 overloads could convert all the argument types	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1575
+Error	C2039	'CLICK': is not a member of 'cvui::cvui'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1283
+Error	C2039	'CLICK': is not a member of 'cvui::cvui'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1560
+Error	C2039	'CLICK': is not a member of 'cvui::cvui'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1597
+Error	C3861	'buttonLabel': identifier not found	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1576
+Error	C2530	'aMouse': references must be initialized	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1542
+Error	C2589	'(': illegal token on right side of '::'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1347
+Error	C2589	'(': illegal token on right side of '::'	captureGUI	c:\users\naser\documents\visual studio 2015\projects\capturegui\capturegui\cvui.h	1355
